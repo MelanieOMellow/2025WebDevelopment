@@ -8,11 +8,21 @@ nav a{
   width:20%;
   text-align:center;
 }
+body {                     
+  text-align: center;
+}
 
 /* Challenge 7: Make the font for all elements Arial */
 
+body{
+  font-family: Arial;
+}
+
 /* Challenge 8: Remove the underline for all hyperlinks */
 
+a{
+  text-decoration: none;
+}
 /* Challenge 9: Change the bottom border of the hyperlinks in the <nav> element to 2px solid black when the visitor hovers over it */
 
 /* Challenge 10: Change the background color to blue and the text to white for elements with an class of "banner" */
