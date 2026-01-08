@@ -14,12 +14,12 @@ html,body{
   padding:10px;
 }
 #banner{
-  background-color:blue;
+  background-color:rgb(41, 41, 146);
   color:white;
 }
  #footer{
    background-color:cornflowerblue;
-   color:white;
+   color:rgb(174, 199, 253);
    position:fixed;
    left: 0;
    right: 0;
