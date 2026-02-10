@@ -2,6 +2,11 @@
        1) Calculate and display the BMI.  Look up the formula which you should have done in Challenge 1
        2) Display BMI status as per the chart in index.html
        3) Display the corresponding image based on the BMI status.
+
+       
+
+
+       
 */
 /* 
 Guideline:
